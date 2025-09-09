@@ -7,8 +7,20 @@
 - 💼 Backend Developer at **ABB**, working on the **Genix Copilot** project  
 - 🎓 Graduated in **2024** with a **B.Tech in Data Science** from **Manipal Institute of Technology**  
 - 🤖 Experienced in **LangChain, LLMs, and building agentic workflow applications**  
-- 🔧 Currently exploring **Model Context Protocol (MCP)** with tools for **Kubernetes** → [Project Link](<project link>)  
 - 🌱 Passionate about **scalable AI systems, distributed computing, and developer tooling**
+
+---
+
+### 🚀 Project Im currently working on
+🔧 **Kuber-AI** → [GitHub Repo](https://github.com/Shreyas-gits/Kuber-AI)  
+
+A Python package that provides:  
+- A **client (APIs)** + **MCP server** for interacting with **Kubernetes clusters in natural language**  
+- Capabilities to **identify and resolve issues** within clusters automatically  
+- Designed for **agentic workflows** and seamless integration with LLM-based tools  
+
+⚠️ **Note**: This project is **Work in Progress (WIP)**.  
+🙌 Contributions are welcome! If you’re interested in **AI × Kubernetes**, feel free to open issues or PRs.  
 
 ---
 
@@ -63,12 +75,4 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyas-gits&show_icons=true&locale=en&layout=compact" alt="shreyas-gits" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shreyas-gits&margin-w=10&margin-h=10" alt="shreyas-gits trophies"/>
-  </a>
 </p>
