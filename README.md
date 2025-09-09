@@ -11,7 +11,7 @@
 
 ---
 
-### 🚀 Highlight Project
+### 🚀 Project Im working on
 🔧 **Kuber-AI** → [GitHub Repo](https://github.com/Shreyas-gits/Kuber-AI)  
 
 A Python package that provides:  
